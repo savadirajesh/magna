@@ -1,1 +1,2 @@
-console.log("magna")
+console.log("magna");
+console.log("sangli");
